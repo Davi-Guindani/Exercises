@@ -1,2 +1,2 @@
-# exercises
+# Exercises
 Many programming languages exercises
